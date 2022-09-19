@@ -2,6 +2,8 @@
 
 # MD simulation of nucleosome core particle (NCP)
 
+[![Join the chat at https://gitter.im/nucleosome-md-simulation/community](https://badges.gitter.im/nucleosome-md-simulation/community.svg)](https://gitter.im/nucleosome-md-simulation/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the scripts and data for setup and running MD simulation of nucleosome with full-length histone
 tails
 
